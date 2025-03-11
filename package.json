@@ -1,0 +1,22 @@
+{
+  "name": "cloud-vision-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franklinsales/cloud-vision-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franklinsales/cloud-vision-example/issues"
+  },
+  "homepage": "https://github.com/franklinsales/cloud-vision-example#readme",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/vision": "^4.3.3"
+  }
+}
